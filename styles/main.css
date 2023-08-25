@@ -414,7 +414,6 @@ h2 {
   margin-top: 15px;
 }
 .form-container button {
-  /*	background-color: #FF4E50; */
   color: #FFFFFF;
   margin-top: 10px;
   margin-bottom: 51px;
@@ -460,7 +459,6 @@ footer .footer-menu__company {
 footer .footer-nav {
   margin: 0 auto;
   width: 200px;
-  color: #999;
   text-align: center;
   font-family: Roboto;
   font-size: 14px;
@@ -471,6 +469,7 @@ footer .footer-nav {
 footer .footer-nav a {
   margin-left: 5px;
   margin-right: 5px;
+  color: #999;
 }
 footer .footer-box__partners {
   color: #444;
